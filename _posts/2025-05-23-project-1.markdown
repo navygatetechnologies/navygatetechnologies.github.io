@@ -1,15 +1,30 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Empowering Indian MSMEs Through Open-Source Engineering Software
+subtitle: How Open-Source Software Can Slash Simulation Costs for India's MSMEs by Over 60%
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
+date: 2025-05-23
+img: msme_empower.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: May 2025
+client: Self
+category: Post
+description:
+
+# Introduction: The Backbone of the Indian Economy
+The Micro, Small, and Medium Enterprises (MSME) sector plays a pivotal role in
+India's industrial and economic landscape. It is not just a support system for
+larger industries, but a driver of innovation, employment, and entrepreneurship.
+
+Key Contributions: Contributes 30% to India’s Gross Domestic Product (GDP)
+
+- Accounts for 45% of total exports
+
+- Employs over 110 million people
+
+- Supports large industries through ancillary manufacturing
+
+- Despite this, access to cutting-edge design and analysis technologies remains a significant hurdle, especially in the early product development phase.
 
 ---
