@@ -13,11 +13,11 @@ category: Post
 description:
 ---
 
-## 🏭 Introduction: The Backbone of the Indian Economy
+## Introduction: The Backbone of the Indian Economy
 
 The Micro, Small, and Medium Enterprises (MSME) sector plays a pivotal role in India's industrial and economic landscape. It is not just a support system for larger industries, but a driver of innovation, employment, and entrepreneurship.
 
-### 📊 Key Contributions of Indian MSMEs:
+### Key Contributions of Indian MSMEs:
 
 - Contributes **30%** to India’s Gross Domestic Product (GDP)
 - Accounts for **45%** of total exports
@@ -27,11 +27,11 @@ The Micro, Small, and Medium Enterprises (MSME) sector plays a pivotal role in I
 
 ---
 
-## 💰 The High Cost of Commercial Engineering Software
+## The High Cost of Commercial Engineering Software
 
 Commercial software used for CAD, CFD, meshing, and FEA is prohibitively expensive for most Indian MSMEs. Here’s a snapshot of the **approximate annual licensing costs for 20 users** under a commercial license:
 
-### 🧩 CAD Software
+### CAD Software
 
 | Software     | Description                              | Approx. Cost per Year (20 Users) |
 |--------------|------------------------------------------|----------------------------------|
@@ -42,7 +42,7 @@ Commercial software used for CAD, CFD, meshing, and FEA is prohibitively expensi
 | CATIA        | Advanced surface and product design       | $120,000 – $200,000              |
 | Fusion 360   | Cloud CAD for SMEs                        | ~$15,000                         |
 
-### 🔧 Meshing Software
+### Meshing Software
 
 | Software         | Description                              | Approx. Cost per Year (20 Users) |
 |------------------|------------------------------------------|----------------------------------|
@@ -51,7 +51,7 @@ Commercial software used for CAD, CFD, meshing, and FEA is prohibitively expensi
 | Altair HyperMesh | Advanced pre-/post-processing            | $80,000 – $100,000               |
 | SimScale         | Cloud-based; includes meshing tools      | $25,000 – $40,000                |
 
-### 🌬️ CFD Software
+### CFD Software
 
 | Software            | Description                                | Approx. Cost per Year (20 Users) |
 |---------------------|--------------------------------------------|----------------------------------|
@@ -61,7 +61,7 @@ Commercial software used for CAD, CFD, meshing, and FEA is prohibitively expensi
 | Altair AcuSolve     | Robust CFD solver                          | $80,000 – $120,000               |
 | Simcenter FLOEFD    | CFD for electronics/system cooling         | $100,000 – $150,000              |
 
-### 🧱 FEA Software
+### FEA Software
 
 | Software                | Description                             | Approx. Cost per Year (20 Users) |
 |-------------------------|-----------------------------------------|----------------------------------|
@@ -73,11 +73,11 @@ Commercial software used for CAD, CFD, meshing, and FEA is prohibitively expensi
 
 ---
 
-## 📉 The Economic Challenge for Indian MSMEs
+## The Economic Challenge for Indian MSMEs
 
 Given these software costs, a 20-person CFD consulting company could face overheads of **$235,000/year**, even without including salaries and compute infrastructure.
 
-### 📌 Cost Breakdown for a Single CFD Project (Approx.):
+### Cost Breakdown for a Single CFD Project (Approx.):
 
 - Licensing Cost per Month per Person: ~$350
 - Resource Salary (India): ₹50,000 – ₹80,000
@@ -94,7 +94,7 @@ Yet, **97% of Indian MSMEs are micro-enterprises** with turnovers under ₹5 cro
 
 ---
 
-## 🌏 Why Commercial Software Remains Expensive in India
+## Why Commercial Software Remains Expensive in India
 
 - Global pricing does **not reflect Indian purchasing power**
 - Indian engineers earn 3–5x less than Western counterparts
@@ -103,11 +103,11 @@ Yet, **97% of Indian MSMEs are micro-enterprises** with turnovers under ₹5 cro
 
 ---
 
-## 🆓 The Open-Source Advantage for Indian MSMEs
+## The Open-Source Advantage for Indian MSMEs
 
 Adopting open-source engineering software can significantly reduce costs:
 
-### 💡 Benefits of Open-Source Tools:
+### Benefits of Open-Source Tools:
 
 - **60%+ reduction** in software-related overheads
 - No licensing lock-ins
@@ -115,7 +115,7 @@ Adopting open-source engineering software can significantly reduce costs:
 - Transparency and customizability
 - Encourages in-house skill development and R&D
 
-### 🛠️ Examples of Open-Source Tools:
+### Examples of Open-Source Tools:
 
 - **CAD**: FreeCAD, OpenSCAD
 - **CFD**: OpenFOAM, SU2
@@ -124,7 +124,7 @@ Adopting open-source engineering software can significantly reduce costs:
 
 ---
 
-## 🔧 Our Commitment to Indian MSMEs
+## Our Commitment to Indian MSMEs
 
 We are committed to:
 
@@ -135,7 +135,7 @@ We are committed to:
 
 ---
 
-## 🚀 Vision for the Future
+## Vision for the Future
 
 A robust open-source ecosystem can:
 
@@ -146,7 +146,7 @@ A robust open-source ecosystem can:
 
 ---
 
-## 📢 Conclusion
+## Conclusion
 
 Open-source tools provide a **viable, scalable alternative** to costly commercial software. They empower Indian MSMEs to innovate, iterate, and grow—**without being burdened by exorbitant license fees**. With proper training, support, and adoption, these tools can reshape India’s engineering landscape.
 
