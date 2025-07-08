@@ -4,7 +4,7 @@ baseurl: ""
 # Site settings
 title: NavyGate Technologies
 email: navygatetechnologies@gmail.com
-description: ""
+description: "We specialize in consulting for Computational Fluid Dynamics (CFD), Finite Element Analysis (FEA), and mechanical engineering. Based in the home of IIM Kashipur, we offer high-quality, cost-effective solutions tailored to industry and research needs."
 
 
 # Team names, titles and social links
@@ -30,6 +30,8 @@ social:
     url: https://linkedin.com/company/navygate-technologies
   - title: github
     url: https://github.com/navygatetechnologies
+  - title: youtube
+    url: https://www.youtube.com/@NavygateTechnologies
 
 # Postal address (add as many lines as necessary)
 address:
